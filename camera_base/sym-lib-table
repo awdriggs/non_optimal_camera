@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "camera_base")(type "KiCad")(uri "${KIPRJMOD}/camera_base.kicad_sym")(options "")(descr ""))
+)
