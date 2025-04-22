@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AWD_camera_ribbon")(type "KiCad")(uri "${KIPRJMOD}/AWD_camera_ribbon.kicad_sym")(options "")(descr ""))
+)

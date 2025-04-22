@@ -1,0 +1,207 @@
+(footprint "FPC_15pin_1mm_Vertical"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -2.5 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "22a53327-8819-46cd-b401-3ffda78fbb43")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "FPC_15pin_1mm_Vertical"
+		(at 0 2.5 0)
+		(layer "F.Fab")
+		(uuid "a5626568-ed6e-4a3c-a83b-56c1036f472d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8afabcfa-216c-4f7e-b1f8-ef7f98e6cab6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9e359eda-c63c-4953-9712-03719f33b5ab")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -8 -2.7)
+		(end 8 -2.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "dabcd1fd-3f89-4846-a9cd-d63c0cd41a1a")
+	)
+	(fp_line
+		(start -8 2.7)
+		(end -8 -2.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a1f2384b-b3b0-4633-a9d2-bc1c1223d567")
+	)
+	(fp_line
+		(start 8 -2.7)
+		(end 8 2.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b45551c7-7e4a-4cd1-b086-8b482b4e2d0c")
+	)
+	(fp_line
+		(start 8 2.7)
+		(end -8 2.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e7484c2a-ba1e-42ab-af7a-28273d28d99c")
+	)
+	(fp_circle
+		(center -7 4)
+		(end -6.8 4)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "c5857512-eef4-462e-9719-adbfeeb59a09")
+	)
+	(fp_rect
+		(start -8 -2.7)
+		(end 8 2.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "User.1")
+		(uuid "0ad31e99-8495-42e4-b983-ce59158ef206")
+	)
+	(pad "1" smd rect
+		(at -7 0)
+		(size 0.75 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "573ffe38-e0f9-4125-9c2d-e05e867ea31c")
+	)
+	(pad "2" smd rect
+		(at -6 0)
+		(size 0.75 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "9fb9e4e7-3ec8-4e94-9191-afc42b6cbca5")
+	)
+	(pad "3" smd rect
+		(at -5 0)
+		(size 0.75 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7c08ef0c-99ac-49e3-901c-9f57d356aa15")
+	)
+	(pad "4" smd rect
+		(at -4 0)
+		(size 0.75 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "1c024b70-6df9-4f97-822a-e5ba62ae6c5c")
+	)
+	(pad "5" smd rect
+		(at -3 0)
+		(size 0.75 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c7e841b6-8aa8-4d3f-9741-68968b5bdd0c")
+	)
+	(pad "6" smd rect
+		(at -2 0)
+		(size 0.75 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "3d3b5666-2dd9-4e3f-87f6-c9df69d09392")
+	)
+	(pad "7" smd rect
+		(at -1 0)
+		(size 0.75 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "2e35d035-2e9c-4cce-bf60-a8e3297ee18f")
+	)
+	(pad "8" smd rect
+		(at 0 0)
+		(size 0.75 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "eef5c5fc-1071-4438-af75-4903293b3ec2")
+	)
+	(pad "9" smd rect
+		(at 1 0)
+		(size 0.75 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "cdb0b300-4d73-43c0-877f-e9a4cbc2a57b")
+	)
+	(pad "10" smd rect
+		(at 2 0)
+		(size 0.75 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "779c78fc-218a-48d2-8530-c6b7b3cd2fb8")
+	)
+	(pad "11" smd rect
+		(at 3 0)
+		(size 0.75 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d0ab723e-90c4-4c4b-a6cb-068bfaf0740c")
+	)
+	(pad "12" smd rect
+		(at 4 0)
+		(size 0.75 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d51b2e02-90da-4f5e-a990-cdaacde3d6a5")
+	)
+	(pad "13" smd rect
+		(at 5 0)
+		(size 0.75 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "40da67bc-a066-4bce-8378-ff4f26e3705f")
+	)
+	(pad "14" smd rect
+		(at 6 0)
+		(size 0.75 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "9e291aff-16b6-495d-952e-47dc0c33ec29")
+	)
+	(pad "15" smd rect
+		(at 7 0)
+		(size 0.75 5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "e41ec5d2-2539-4919-b6af-23cb8c5eb681")
+	)
+	(embedded_fonts no)
+)
