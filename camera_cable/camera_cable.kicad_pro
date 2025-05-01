@@ -508,7 +508,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "camera_cable.step",
       "svg": "",
       "vrml": ""
     },
